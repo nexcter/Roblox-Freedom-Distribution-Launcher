@@ -15,6 +15,7 @@ RFD:L provides an easy to use interface that communicates with the RFD command-l
 - Extract RFD to a folder.
 - Download the latest RFD:L release from this repository.
 - Place the launcher anywhere you want and run the program.
+- Notice: Windows Smartscreen might trigger an alert if you try to open the application, this happens because the application is not signed. If you wish to use the program, click on 'More Info' and Run anyway.
 
 # Hosting a Server
 - To host a server using RFD:L, you must obtain a place which has a ```GameConfig``` file.

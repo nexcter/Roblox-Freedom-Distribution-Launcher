@@ -1,5 +1,5 @@
 # Roblox Freedom Distribution Launcher (RFD:L)
-![RFD:L Banner](images/RFDL_BANNER)
+![RFD:L Banner](images/RFDL_BANNER.png)
 A graphical launcher for Windows81's Roblox Freedom Distribution, built using the Godot Engine.
 
 RFD:L provides an easy to use interface that communicates with the RFD command-line program, allowing users to host and join servers without manually using the terminal.
@@ -31,10 +31,10 @@ RFD:L provides an easy to use interface that communicates with the RFD command-l
 - The launcher will automatically select the correct Roblox client version based on the server's ```GameConfig```.
 
 # Screenshots
-![RFD:L Login page](images/S1)
-![RFD:L Home page](images/S2)
-![RFD:L Host page](images/S3)
-![RFD:L Roblox High](images/S4)
+![RFD:L Login page](images/S1.png)
+![RFD:L Home page](images/S2.png)
+![RFD:L Host page](images/S3.png)
+![RFD:L Roblox High](images/S4.png)
 
 # Disclaimer
 - RFD:L is not affiliated with or endorsed by Windows81 or Roblox.
